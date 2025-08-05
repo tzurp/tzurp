@@ -13,18 +13,18 @@ Performance and cleanup tools built for modern test frameworks:
 
 ### 🧪 WebdriverIO
 
-- [Performance Service](https://lnkd.in/d8a_f8TT) – Adds profiling and timing visibility  
-- [Cleanup Service](https://lnkd.in/dPS8hjfR) – Ensures clean test environments and consistent runs  
+- [Performance Service](https://github.com/tzurp/wdio-performance-service) – Adds profiling and timing visibility  
+- [Cleanup Service](https://github.com/tzurp/wdio-cleanup-service) – Ensures clean test environments and consistent runs  
 
 ### 🎭 Playwright
 
-- [Performance Plugin](https://lnkd.in/dEvSRDEm) – Profiles key event timings  
-- [Cleanup Plugin](https://lnkd.in/dWsjS49t) – Cleans up test states and browser artifacts  
+- [Performance Plugin](https://github.com/tzurp/playwright-performance-plugin) – Profiles key event timings  
+- [Cleanup Plugin](https://github.com/tzurp/playwright-cleanup-plugin) – Cleans up test states and browser artifacts  
 
 ### 🐍 Pytest
 
-- [Performance Extension](https://lnkd.in/dTuBvfv5) – Logs slow tests for suite optimization  
-- [Cleanup Extension](https://lnkd.in/dP5VSrBi) – Ensures environment reset after tests  
+- [Performance Extension](https://github.com/tzurp/pytest-performance-extension) – Logs slow tests for suite optimization  
+- [Cleanup Extension](https://github.com/tzurp/pytest-cleanup-extension) – Ensures environment reset after tests  
 
 ⭐ If any of these tools help your workflow, feel free to give them a star!
 
