@@ -24,7 +24,10 @@ Performance and cleanup tools built for modern test frameworks:
 ### 🐍 Pytest
 
 - [Performance Extension](https://github.com/tzurp/pytest_performancetotal) – Logs slow tests for suite optimization  
-- [Cleanup Extension](https://github.com/tzurp/pytest_cleanuptotal) – Ensures environment reset after tests    
+- [Cleanup Extension](https://github.com/tzurp/pytest_cleanuptotal) – Ensures environment reset after tests
+
+### 💻 openapi-skills-cli
+- [Anything OpenApi in One CLI](https://github.com/tzurp/openapi-skills-cli)
 
 ⭐ If any of these tools help your workflow, feel free to give them a star!
 
