@@ -1,15 +1,21 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile. I'm a developer specializing in automation and applied AI. I build tools and systems that streamline workflows, reduce friction, and turn complex processes into simple, reliable solutions.
+I build developer tools focused on API workflows, automation, and improving the way engineers explore, validate, and interact with complex systems.
+I’m also the creator of [Bedekbyte](https://www.bedekbyte.com), an independent developer‑tools studio.
 
 ## 🔍 About Me
 
-- Specialize in software development with a focus on automation, AI‑powered tooling, debugging, performance, and testing
-- Passionate about building scalable systems, clean architectures, and developer tools that enhance productivity
+- Specialize in software development with a focus on API tooling, automation, and AI‑assisted developer workflows.
+- Passionate about building scalable systems, clean architectures, and developer‑first tools that streamline complex engineering tasks.
+- Creator of **Bedekbyte**, an independent developer‑tools studio where I build practical tools that help developers explore, validate, and automate API‑driven systems.
 
 ## 🧰 Featured Projects
 
 ### 💻 openapi-skills-cli
+
+CLI toolkit for exploring OpenAPI and GraphQL schemas, generating operation artifacts, validators, and tests.
+Includes an agent‑skill bundle that teaches AI tools how to operate the CLI safely and efficiently.
+
 - [openapi-skills Pro](https://github.com/tzurp/openapi-skills-pro)
 - [openapi-skills Free](https://github.com/tzurp/openapi-skills-cli)
 
@@ -32,6 +38,14 @@ Performance and cleanup tools built for modern test frameworks:
 
 ⭐ If any of these tools help your workflow, feel free to give them a star!
 
-## 📫 Connect
+### 🤝 Connect with Me
+Email: bedekbyte@outlook.com
+LinkedIn: https://www.linkedin.com/in/tzurp
+Website: https://www.bedekbyte.com
+GitHub: https://github.com/tzurp
+PyPI: https://pypi.org/user/tzurp
+NPM: https://www.npmjs.com/~tzurp
 
-Want to collaborate or share ideas? Reach out via [LinkedIn](https://www.linkedin.com/in/tzur-paldi/) or explore my repositories above.
+---
+
+All tools and projects here are part of the Bedekbyte™ ecosystem, built and maintained by me.
