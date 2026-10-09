@@ -1,13 +1,17 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile repository. I'm an automation engineer focused on testing and developer experience. I build tools that save time, eliminate noise, and make workflows smoother.
+Welcome to my GitHub profile. I'm a developer specializing in automation and applied AI. I build tools and systems that streamline workflows, reduce friction, and turn complex processes into simple, reliable solutions.
 
 ## 🔍 About Me
 
-- Specialize in automation, debugging, performance, and testing  
-- Passionate about scalable engineering and clean developer tooling  
+- Specialize in software development with a focus on automation, AI‑powered tooling, debugging, performance, and testing
+- Passionate about building scalable systems, clean architectures, and developer tools that enhance productivity
 
 ## 🧰 Featured Projects
+
+### 💻 openapi-skills-cli
+- [openapi-skills Pro](https://github.com/tzurp/openapi-skills-pro)
+- [openapi-skills Free](https://github.com/tzurp/openapi-skills-cli)
 
 Performance and cleanup tools built for modern test frameworks:
 
@@ -25,9 +29,6 @@ Performance and cleanup tools built for modern test frameworks:
 
 - [Performance Extension](https://github.com/tzurp/pytest_performancetotal) – Logs slow tests for suite optimization  
 - [Cleanup Extension](https://github.com/tzurp/pytest_cleanuptotal) – Ensures environment reset after tests
-
-### 💻 openapi-skills-cli
-- [Anything OpenApi in One CLI](https://github.com/tzurp/openapi-skills-cli)
 
 ⭐ If any of these tools help your workflow, feel free to give them a star!
 
