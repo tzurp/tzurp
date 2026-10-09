@@ -1,13 +1,17 @@
 ## Hi there 👋
 
 I build developer tools focused on API workflows, automation, and improving the way engineers explore, validate, and interact with complex systems.
-I’m also the creator of [Bedekbyte](https://www.bedekbyte.com), an independent developer‑tools studio.
+I’m also the creator of Bedekbyte™ ([https://www.bedekbyte.com]{https://www.bedekbyte.com}), an independent developer‑tools studio.
+
+---
 
 ## 🔍 About Me
 
 - Specialize in software development with a focus on API tooling, automation, and AI‑assisted developer workflows.
 - Passionate about building scalable systems, clean architectures, and developer‑first tools that streamline complex engineering tasks.
-- Creator of **Bedekbyte**, an independent developer‑tools studio where I build practical tools that help developers explore, validate, and automate API‑driven systems.
+- Creator of [**Bedekbyte™**](https://www.bedekbyte.com), an independent developer‑tools studio where I build practical tools that help developers explore, validate, and automate API‑driven systems.
+
+---
 
 ## 🧰 Featured Projects
 
@@ -36,9 +40,12 @@ Performance and cleanup tools built for modern test frameworks:
 - [Performance Extension](https://github.com/tzurp/pytest_performancetotal) – Logs slow tests for suite optimization  
 - [Cleanup Extension](https://github.com/tzurp/pytest_cleanuptotal) – Ensures environment reset after tests
 
+
 ⭐ If any of these tools help your workflow, feel free to give them a star!
 
-### 🤝 Connect with Me
+---
+
+## 🤝 Connect with Me
 Email: bedekbyte@outlook.com
 LinkedIn: https://www.linkedin.com/in/tzurp
 Website: https://www.bedekbyte.com
