@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I build developer tools focused on API workflows, automation, and improving the way engineers explore, validate, and interact with complex systems.
-I’m also the creator of Bedekbyte™ ([https://www.bedekbyte.com]{https://www.bedekbyte.com}), an independent developer‑tools studio.
+I’m also the creator of Bedekbyte™ ([https://www.bedekbyte.com](https://www.bedekbyte.com)), an independent developer‑tools studio.
 
 ---
 
@@ -46,12 +46,15 @@ Performance and cleanup tools built for modern test frameworks:
 ---
 
 ## 🤝 Connect with Me
-Email: bedekbyte@outlook.com
-LinkedIn: https://www.linkedin.com/in/tzurp
-Website: https://www.bedekbyte.com
-GitHub: https://github.com/tzurp
-PyPI: https://pypi.org/user/tzurp
-NPM: https://www.npmjs.com/~tzurp
+
+## 🤝 Connect with Me
+
+- **Email:** [bedekbyte@outlook.com](mailto:bedekbyte@outlook.com)
+- **LinkedIn:** [linkedin.com/in/tzurp](https://www.linkedin.com/in/tzurp)
+- **Website:** [bedekbyte.com](https://www.bedekbyte.com)
+- **GitHub:** [github.com/tzurp](https://github.com/tzurp)
+- **PyPI:** [pypi.org/user/tzurp](https://pypi.org/user/tzurp)
+- **NPM:** [npmjs.com/~tzurp](https://www.npmjs.com/~tzurp)
 
 ---
 
